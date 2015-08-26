@@ -1,0 +1,31 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1988 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Applications\Unity\pong-game\Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Applications\Unity\pong-game\Pong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Applications\Unity\pong-game\Pong_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.501111 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.163777 ms (FindLiveObjects: 0.033733 ms CreateObjectMapping: 0.027866 ms MarkObjects: 0.082622 ms  DeleteObjects: 0.011244 ms)
+
